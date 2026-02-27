@@ -20,4 +20,12 @@ Heading 1-6과 바탕글에 해당하는 거를 자간 줄간격 들여쓰기 �
 
 ---
 
-* 모든 방법은 Thanks to 안창현 교수님
+
+예시 : 
+
+<img width="1920" height="1042" alt="image" src="https://github.com/user-attachments/assets/57868cea-9e1c-453f-8f7b-502cdaa4d51b" />
+
+
+---
+
+* 모든 방법과 예시자료는 Thanks to 안창현 교수님
